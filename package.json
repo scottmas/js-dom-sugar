@@ -1,0 +1,5 @@
+{
+    "name": "js-dom-sugar",
+    "description": "A lightweight IE9+ library for abstracting away some DOM clunkiness",
+    "repository": "https://github.com/scottmas/js-dom-sugar"       
+}

@@ -1,0 +1,21 @@
+{
+  "name": "js-dom-sugar",
+  "main": "js-dom-sugar.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/scottmas/js-dom-sugar",
+  "authors": [
+    "Scott <scottmortonashton@gmail.com>"
+  ],
+  "description": "A lightweight IE9+ library for abstracting away some DOM clunkiness",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
